@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>guyulei 的博客小屋</title>
+  <subtitle>android 小学生</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-24T14:26:55.726Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>guyulei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://yoursite.com/2017/04/24/article-title/"/>
+    <id>http://yoursite.com/2017/04/24/article-title/</id>
+    <published>2017-04-24T14:26:19.000Z</published>
+    <updated>2017-04-24T14:26:55.726Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="哈哈哈哈哈哈" scheme="http://yoursite.com/tags/%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88/"/>
+    
+  </entry>
+  
+</feed>
