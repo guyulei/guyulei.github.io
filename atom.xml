@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>石头恋伟曲</title>
+  <icon>https://www.gravatar.com/avatar/db3e56389a181178554b20c4f8755ae3</icon>
   <subtitle>有事没事学点东西</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://guyulei.github.io/"/>
   <updated>2017-04-24T14:26:55.726Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://guyulei.github.io/</id>
   
   <author>
     <name>顾雨磊</name>
-    
+    <email>1253908433@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>article title</title>
-    <link href="http://yoursite.com/2017/04/24/article-title/"/>
-    <id>http://yoursite.com/2017/04/24/article-title/</id>
+    <link href="https://guyulei.github.io/2017/04/24/article-title/"/>
+    <id>https://guyulei.github.io/2017/04/24/article-title/</id>
     <published>2017-04-24T14:26:19.000Z</published>
     <updated>2017-04-24T14:26:55.726Z</updated>
     
@@ -27,7 +28,7 @@
     </summary>
     
     
-      <category term="哈哈哈哈哈哈" scheme="http://yoursite.com/tags/%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88/"/>
+      <category term="哈哈哈哈哈哈" scheme="https://guyulei.github.io/tags/%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88/"/>
     
   </entry>
   
