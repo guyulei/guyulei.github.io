@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>guyulei 的博客小屋</title>
-  <subtitle>android 小学生</subtitle>
+  <title>石头恋伟曲</title>
+  <subtitle>有事没事学点东西</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -9,7 +9,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>guyulei</name>
+    <name>顾雨磊</name>
     
   </author>
   
