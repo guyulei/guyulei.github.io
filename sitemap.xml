@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://guyulei.github.io/about/index.html</loc>
+    
+    <lastmod>2018-03-26T22:38:10.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://guyulei.github.io/categories/index.html</loc>
+    
+    <lastmod>2018-03-26T22:17:32.725Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://guyulei.github.io/tags/index.html</loc>
     
-    <lastmod>2018-03-26T22:11:48.468Z</lastmod>
+    <lastmod>2018-03-26T22:15:15.207Z</lastmod>
     
   </url>
   
